@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2023-06-08T17:15:03Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.6.2"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "ESC"
+        },
+        "Owner": "Ahmad Fajar <ahmad.118130040@student.itera.ac.id>",
+        "Size": {
+            "X": 146.665,
+            "Y": 83.1725
+        }
+    }
+}
